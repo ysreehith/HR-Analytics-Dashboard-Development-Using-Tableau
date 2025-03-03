@@ -21,3 +21,6 @@ The analysis is based on the **HumanResources.csv** dataset, which includes deta
 ## Tools Used
 - **Tableau** – For data visualization and dashboard creation
 - **CSV Data Processing** – Data cleaned and structured before visualization
+
+## Dashboard Link
+[View HR Analytics Dashboard on Tableau Public](https://public.tableau.com/app/profile/sreehith.yachamaneni/viz/HRDashboard_17239945881420/HRSummary)
